@@ -1,1 +1,1 @@
-web: node ./app.js emart https://shwnsgur.herokuapp.com
+web: node ./app.js shwnsgur https://emtjevi.herokuapp.com
